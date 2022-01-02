@@ -1,0 +1,194 @@
+{
+  "title": "The Burger List",
+  "lists": [
+    {
+      "title": "Boston",
+      "list": [
+        "Drink",
+        "Radius/Tico",
+        "Alden & Harlow",
+        "Kirkland Tap and Trotter",
+        "Craigie on Main",
+        "Ten Tables",
+        "Citizen Public House",
+        "Little Donkey",
+        "Hojoko",
+        "Stillwater",
+        "Sinclair - Delightfuly Messy Bone Marrow Burger",
+        "Bar Mezzana",
+        "Beat Brew Hall",
+        "jm Curley",
+        "Saloon",
+        "The Automatic",
+        "Moonshine 152 - Pickle Rick (August 2020)",
+        "Rosebud",
+        "Roxy's - Justin's Burger",
+        "Moonshine 152 - Firecracker (February 2020)",
+        "Tasty Burger - Big Tasty",
+        "Offsuit",
+        "Moonshine 152 - The Ranch Burger (June 2021)",
+        "Russell House",
+        "Grass Fed",
+        "Aquitaine",
+        "M3",
+        "Tasty Burger - Jalapeño",
+        "Lucky's Lounge - High Society Sliders",
+        "Back Bay Social Club",
+        "Saus - BBQ Impossible Burger",
+        "Post 390",
+        "River Bar",
+        "Bukowski's - Yak",
+        "Bukowski's - Habeñero",
+        "The Abbey",
+        "Rochambeau",
+        "Smith & Wollensky's - Wollensky Slider",
+        "Bronwyn",
+        "Harvest",
+        "Church",
+        "Island Creek Oyster Bar",
+        "The Butcher Shop - TBS Burger",
+        "Worden Hall",
+        "Strip T's",
+        "Tasty Burger - BBQ Onion",
+        "State Street Provisions",
+        "Highball Lounge",
+        "Highland Fried",
+        "Explorateur Café",
+        "Wink & Nod - Hush",
+        "Wheelhouse - Boom Goes the Dynamite",
+        "State Park - Juicy Lucy",
+        "Waypoint - Brunch",
+        "Better Sorts Social Club",
+        "Moonshine 152 - All Hail the King Caesar (May 2019)",
+        "The Butcher Shop - Dry Aged Burger",
+        "Wit's End - Apocalypse Cow",
+        "Stoddard's",
+        "Yardhouse - Black Truffle",
+        "Shake Shack - Coppa",
+        "By Chloe. - Guac",
+        "Catalyst",
+        "Shepard",
+        "Abby Lane - Tremont",
+        "Moonshine 152 - Thai PB&J (April 2019)",
+        "Firebrand Saints - Brisket",
+        "Hops 'N Scotch",
+        "McCabe's",
+        "Highland Kitchen",
+        "Drink - Chickpea & Black Bean",
+        "Tip Tap Room",
+        "Firebrand Saints - Lamb",
+        "Atwood's Tavern",
+        "Bristol Lounge",
+        "Beat Hôtel",
+        "Tico - Brunch",
+        "Fat Baby - Wagyu Sliders",
+        "jm Curley - Fatty Patty",
+        "Sally's Sandwiches",
+        "Blue Dragon",
+        "Woods Hill Pier 4",
+        "Moonshine 152 - St. Patrick's Day Burger (March 2021)",
+        "Moonshine 152 - The Nutcracker (December 2020)",
+        "Moonshine 152 - Our Lady in Black (September 2020)",
+        "Backyard Betty's",
+        "Charlie's Kitchen - Blue Cheese",
+        "Eastern Standard",
+        "Granary Tavern",
+        "Bostonia Public House",
+        "City Tap",
+        "Alcove",
+        "Wahlburgers - Melt",
+        "Flat Patties",
+        "Five Napkin",
+        "Elm Street Tap Room",
+        "Rosebud - Jalapeño Cheddar",
+        "Wahlburgers - O.F.D.",
+        "Lucky's Lounge",
+        "Moonshine 152 - Irish Potato-Pumpkin Curry (October 2020)",
+        "Coppersmith - Spicy BBQ",
+        "Champions - Blue Cheese",
+        "By Chloe. - Classic",
+        "Moonshine 152 - The Jalapeño Popper (January 2021)",
+        "Squeaky Beaker",
+        "Lincoln Tavern",
+        "Moonshine 152 - Not Yo' Mama's Holiday Burger (December 2018)",
+        "Nubar",
+        "Green Street",
+        "Moonshine 152 - Cheeseburger Parm (November 2020)",
+        "Mr. Bartley's",
+        "Joe Sent Me",
+        "Boston Burger Co. - Killer Bee",
+        "Miracle of Science",
+        "CBC",
+        "State Park - Impossible Burger",
+        "Mead Hall",
+        "Gather",
+        "Moonshine 152 - Pizza (January 2018)",
+        "RF O'Sullivan's"
+      ]
+    },
+    {
+      "title": "Atlanta",
+      "list": [
+        "Watchman's"
+      ]
+    },
+    {
+      "title": "California",
+      "list": [
+        "Trick Dog",
+        "In N Out"
+      ]
+    },
+    {
+      "title": "Colorado",
+      "list": [
+        "5280 Burger Bar - Vail Valley",
+        "5280 Burger Bar - Texican",
+        "5280 Burger Bar - Baja Colorado",
+        "5280 Burger Bar - Durango"
+      ]
+    },
+    {
+      "title": "Connecticut",
+      "list": [
+        "The Oyster Club (Mystic)",
+        "The Engine Room - Randy's Double Stack (Mystic)"
+      ]
+    },
+    {
+      "title": "New York City",
+      "list": [
+      "Gramercy Tavern",
+        "Clover Club",
+        "BlackTail",
+        "Gristmill",
+        "DB Bistro Moderne",
+        "Peter Luger",
+        "Bare Burger - Blazin' Cattle",
+        "Ramen Burger",
+        "Haymaker"
+      ]
+    },
+    {
+      "title": "Seattle",
+      "list": [
+        "Loulay Kitchen",
+        "Li'l Woody's",
+        "Great State Burgers"
+      ]
+    },
+    {
+      "title": "Washington, D.C.",
+      "list": [
+        "Le Diplomate"
+      ]
+    },
+    {
+      "title": "National",
+      "list": [
+        "Shake Shack - Smokeshack",
+        "Burger King - Impossible Whopper"
+      ]
+    }
+  ]
+}
