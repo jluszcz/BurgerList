@@ -145,12 +145,11 @@
       ]
     },
     {
-    "title": "Chicago",
-    "list":
-    [
-    "Gretel"
-    ]
-    }
+      "title": "Chicago",
+      "list": [
+        "Gretel"
+      ]
+    },
     {
       "title": "Colorado",
       "list": [
