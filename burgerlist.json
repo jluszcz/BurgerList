@@ -6,7 +6,10 @@
       "list": [
         "Drink",
         "Radius/Tico",
-        "Alden & Harlow",
+        {
+          "item": "Alden & Harlow",
+          "tooltip": "Great/Good Divide"
+        },
         "Kirkland Tap and Trotter",
         "Craigie on Main",
         "Ten Tables",
@@ -65,7 +68,10 @@
         "Longfellow Bar - Smashed Onion Burger 8.0",
         "Wit's End - Apocalypse Cow",
         "Stoddard's",
-        "Yardhouse - Black Truffle",
+        {
+          "item": "Yardhouse - Black Truffle",
+          "tooltip": "Good/OK Divide"
+        },
         "Shake Shack - Coppa",
         "By Chloe. - Guac",
         "Catalyst",
@@ -123,7 +129,10 @@
         "Boston Burger Co. - Killer Bee",
         "Miznon",
         "Miracle of Science",
-        "Cambridge Brewing Company",
+        {
+          "item": "Cambridge Brewing Company",
+          "tooltip": "OK/Bad Divide"
+        },
         "State Park - Impossible Burger",
         "Mead Hall",
         "Gather",
@@ -148,7 +157,10 @@
     {
       "title": "Chicago",
       "list": [
-        "Gretel"
+        {
+          "item": "Gretel",
+          "tooltip": "This may be the only Chicago burger, but it's fantastic"
+        }
       ]
     },
     {
