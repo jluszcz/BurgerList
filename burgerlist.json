@@ -183,7 +183,7 @@
       "title": "Massachusetts",
       "list": [
         "Rye Tavern - Smash Burger (Plymouth)"
-      ] 
+      ]
     },
     {
       "title": "New York City",
@@ -216,6 +216,10 @@
     {
       "title": "National",
       "list": [
+        {
+          "item": "Guy Fieri's Kitchen & Bar - Primetime American Kobe",
+          "tooltip": "Unironically great"
+        },
         "Shake Shack - Bourbon Bacon Cheddar Burger",
         "Shake Shack - Smokeshack",
         "Burger King - Impossible Whopper",
