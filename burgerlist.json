@@ -236,5 +236,11 @@
         "Outback Steakhouse - Outbacker"
       ]
     }
-  ]
+  ],
+    "footerLinks": [
+        {
+            "url": "https://github.com/jluszcz/BurgerList",
+            "icon": "github"
+        }
+    ]
 }
