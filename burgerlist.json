@@ -167,10 +167,8 @@
     {
       "title": "Chicago",
       "list": [
-        {
-          "item": "Gretel",
-          "tooltip": "This may be the only Chicago burger, but it's fantastic"
-        }
+        "Gretel",
+        "Au Cheval"
       ]
     },
     {
