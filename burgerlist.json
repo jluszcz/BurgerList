@@ -239,10 +239,10 @@
       ]
     }
   ],
-    "footerLinks": [
-        {
-            "url": "https://github.com/jluszcz/BurgerList",
-            "icon": "github"
-        }
-    ]
+  "footerLinks": [
+    {
+      "url": "https://github.com/jluszcz/BurgerList",
+      "icon": "github"
+    }
+  ]
 }
