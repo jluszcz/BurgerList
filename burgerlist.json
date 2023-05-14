@@ -4,7 +4,10 @@
     {
       "title": "Boston",
       "list": [
-        "Drink",
+        {
+          "item": "Drink",
+          "tooltip": "Pre-COVID"
+        },
         "Radius/Tico",
         {
           "item": "Alden & Harlow",
