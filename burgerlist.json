@@ -299,5 +299,17 @@
       "url": "https://github.com/jluszcz/BurgerList",
       "icon": "github"
     }
-  ]
+  ],
+  "footer": {
+    "imports": [
+      "<script src=\"https://kit.fontawesome.com/aa30dc648a.js\" crossorigin=\"anonymous\"></script>"
+    ],
+    "links": [
+      {
+        "url": "https://github.com/jluszcz/BurgerList",
+        "title": "GitHub",
+        "icon": "fa-brands fa-github"
+      }
+    ]
+}
 }
