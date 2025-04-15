@@ -17,7 +17,7 @@ jobs:
       - name: Install jq
         run: sudo apt-get install -y jq
       - name: Minify json
-        run: jq --compact-output . burgerlist.json > burgerlist.min.json
+        run: jq --compact-output '.lists |= map(select(.hidden != true))' burgerlist.json > burgerlist.min.json
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@ececac1a45f3b08a01d2dd070d28d111c5fe6722
         with:

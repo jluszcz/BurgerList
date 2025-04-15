@@ -186,6 +186,7 @@
     },
     {
       "title": "Austin",
+      "hidden": true,
       "list": [
         "Odd Duck"
       ]
@@ -223,12 +224,14 @@
     },
     {
       "title": "Massachusetts",
+      "hidden": true,
       "list": [
         "Rye Tavern - Smash Burger (Plymouth)"
       ]
     },
     {
       "title": "Las Vegas",
+      "hidden": true,
       "list": [
         "Black Tap - Wagyu Steakhouse Burger"
       ]
@@ -267,6 +270,7 @@
     },
     {
       "title": "Washington, D.C.",
+      "hidden": true,
       "list": [
         "Le Diplomate"
       ]
