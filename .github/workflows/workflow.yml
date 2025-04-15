@@ -9,6 +9,10 @@ on:
 
 jobs:
   minify-and-upload-to-s3:
+    permissions:
+      id-token: write
+      contents: read
+
     runs-on: ubuntu-latest
 
     steps:
