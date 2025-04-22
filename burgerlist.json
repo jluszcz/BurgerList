@@ -4,11 +4,11 @@
     {
       "title": "Boston",
       "list": [
+        "Drink",
         {
-          "item": "Drink",
-          "tooltip": "Pre-COVID"
+          "item": "Seamark",
+          "tooltip": "Formerly Radius/Tico"
         },
-        "Radius/Tico/Seamark",
         {
           "item": "Alden & Harlow",
           "tooltip": "Great/Good Divide"
@@ -43,6 +43,7 @@
         "Longfellow Bar - Smashed Onion Burger 9.0",
         "Lulu's Allston",
         "Comfort Kitchen",
+        "Crazy Good Kitchen - 'Merica Style",
         "Oak Long Bar - Brunch Burger",
         "Idle Hour",
         "Wheelhouse - The Wheelhouse",
