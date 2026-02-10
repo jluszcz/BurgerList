@@ -200,8 +200,8 @@
     {
       "title": "California",
       "list": [
-        "Trick Dog",
-        "Starlite",
+        "Trick Dog (San Francisco)",
+        "Starlite (San Francisco)",
         "Parkside (Los Gatos)",
         "In-N-Out",
         "Pruneyard Cinemas (Campbell)"
@@ -217,19 +217,19 @@
       ]
     },
     {
-      "title": "Colorado",
+      "title": "Connecticut",
+      "list": [
+        "The Oyster Club (Mystic)",
+        "The Engine Room - Randy's Double Stack (Mystic)"
+      ]
+    },
+    {
+      "title": "Denver",
       "list": [
         "5280 Burger Bar - Vail Valley",
         "5280 Burger Bar - Texican",
         "5280 Burger Bar - Baja Colorado",
         "5280 Burger Bar - Durango"
-      ]
-    },
-    {
-      "title": "Connecticut",
-      "list": [
-        "The Oyster Club (Mystic)",
-        "The Engine Room - Randy's Double Stack (Mystic)"
       ]
     },
     {
